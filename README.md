@@ -42,3 +42,5 @@ __melhoria 1__, _melhoria 2_
 [Google](http://www.google.com)
 
 [http://www.google.com](http://www.google.com)
+
+Contribuidor principal: https://github.com/guinascimentoo
