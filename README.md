@@ -54,3 +54,10 @@ function soma(a, b){
     return a + b;
 }
 ```
+
+## Listas de terfas a fazer:
+
+- [ x ] Área de membros:
+- [ ] Integração com outroa pagamentos
+- [ ] Sistema de bonus
+- [ x ] CSS do rodapé
