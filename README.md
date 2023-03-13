@@ -57,7 +57,7 @@ function soma(a, b){
 
 ## Listas de terfas a fazer:
 
-- [ x ] Área de membros:
+- [x] Área de membros:
 - [ ] Integração com outroa pagamentos
 - [ ] Sistema de bonus
-- [ x ] CSS do rodapé
+- [x] CSS do rodapé
