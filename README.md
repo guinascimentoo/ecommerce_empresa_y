@@ -1,2 +1,7 @@
-# ecommerce_empresa_y
-Este é um e-commerce para a empresa Y, feito em Java
+# E-commerce empresa X
+
+Vamor criar um e-commerce, para empresa X
+
+## Funcionalidades: 
+
+Checkout, tela de produto, catalogo, home com banner
