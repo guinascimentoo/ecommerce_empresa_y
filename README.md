@@ -29,3 +29,7 @@ __melhoria 1__, _melhoria 2_
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
+#### Imagem local
+
+![Logo do Java](img/imagemjava.png)
+
