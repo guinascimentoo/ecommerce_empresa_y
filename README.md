@@ -23,9 +23,9 @@ __melhoria 1__, _melhoria 2_
 ### Funcionalidades a desenvolver: 
 
 1. Área de membros
-  1. Login diferente para grupos de cliente
-  2. desconto especial para grupos de cliente
-  3. CSS diferente paraa grupos de cliente
+    1. Login diferente para grupos de cliente
+    2. desconto especial para grupos de cliente
+    3. CSS diferente paraa grupos de cliente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
