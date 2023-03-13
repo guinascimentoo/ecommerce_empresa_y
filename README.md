@@ -44,3 +44,5 @@ __melhoria 1__, _melhoria 2_
 [http://www.google.com](http://www.google.com)
 
 Contribuidor principal: https://github.com/guinascimentoo
+
+[![Logo do Java](https://pt.wikipedia.org/wiki/Ficheiro:Java_programming_language_logo.svg)](https://github.com/guinascimentoo)
