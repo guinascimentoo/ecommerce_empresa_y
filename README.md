@@ -40,3 +40,5 @@ __melhoria 1__, _melhoria 2_
 ## Links interessantes:
 
 [Google](http://www.google.com)
+
+[http://www.google.com](http://www.google.com)
